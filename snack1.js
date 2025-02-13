@@ -9,3 +9,5 @@ secondBurger.weight = 500
 
 console.log(hamburger.name) // ?
 console.log(secondBurger.name) // ?
+
+//? Risposta: un solo oggetto è stato creato in memoria.
