@@ -14,3 +14,6 @@ secondBurger.ingredients[0] = 'Salad'
 
 console.log(hamburger.ingredients[0]) // ?
 console.log(secondBurger.ingredients[0]) // ?
+
+//? Risposta: sono stati creati 2 oggetti in memoria.
+//? solo che nel secondo oggetto, l'array ingredients è stato modificato andando a modificare anche il primo oggetto.
